@@ -1,0 +1,9 @@
+Fake News Detection System
+
+Developed an NLP-based machine learning system to classify news articles as fake or real using the WELFake dataset (72K+ articles).
+
+Implemented text preprocessing, stopword removal, and TF-IDF feature extraction to convert news text into machine-learning features.
+
+Evaluated multiple models including Logistic Regression, SVM, Random Forest, and Naive Bayes, achieving 93%+ accuracy with the best-performing model and integrating it into a real-time prediction interface.
+
+Tech Stack: Python, Scikit-learn, NLTK, Streamlit, TF-IDF, Machine Learning, NLP.
