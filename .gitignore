@@ -46,3 +46,4 @@ fake_news_model.pkl
 *.pkl
 tempCodeRunnerFile.py
 node_modules/
+data/WELFake_Dataset.csv
